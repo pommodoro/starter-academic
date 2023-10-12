@@ -2,8 +2,8 @@
 title: Ricardo Pommer Muñoz
 role: PhD Candidate in Economics at Columbia University
 avatar_filename: screenshot-2023-10-12-at-11.27.23-am.png
-bio: My interests are Development, Behavioral and Climate Economics
-interests: []
+bio: 
+interests: [Development, Behavioral, Climate Economics]
 social:
   - icon: github
     icon_pack: fab
