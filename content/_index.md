@@ -5,9 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-    
   - block: about.biography
     id: about
     content:
