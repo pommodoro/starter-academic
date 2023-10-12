@@ -16,7 +16,6 @@ sections:
     content:
       title: "Project 1 Title"  # The project's title
       subtitle: "Project 1 Subtitle"  # The project's subtitle
-      page: "project/project-1-slug"  # Path to the project's content file without `.md` extension
   - block: portfolio
     id: projects
     content:
