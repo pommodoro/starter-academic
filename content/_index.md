@@ -27,6 +27,5 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-    - block: Projects
   
 ---
