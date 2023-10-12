@@ -15,6 +15,9 @@ sections:
     id: projects
     content:
       title: Research
+    design:
+      columns: '1'
+      view: card
   - block: features
     content:
       title: Skills
