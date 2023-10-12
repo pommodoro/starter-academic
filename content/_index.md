@@ -17,6 +17,7 @@ sections:
       title: Research
     design:
       columns: '2'
+    
   - block: features
     content:
       title: Skills
