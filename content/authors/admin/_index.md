@@ -27,6 +27,6 @@ education:
       year: 2014
 superuser: true
 ---
-H﻿i! I am Ricardo Pommer Muñoz, a PhD candidate in Economics at Columbia University, with an interest in applying modern behavioral economics in development contexts and in climate economics. My job market paper threads these three areas by studying the mechanisms by which information interventions affect demand for climate insurance and its welfare implications.s
+H﻿i! I am Ricardo Pommer Muñoz, a PhD candidate in Economics at Columbia University, with an interest in applying modern behavioral economics in development contexts and in climate economics. My job market paper threads these three areas by studying the mechanisms by which information interventions affect demand for climate insurance and its welfare implications.
 
 
