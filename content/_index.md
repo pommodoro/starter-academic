@@ -18,7 +18,6 @@ sections:
       filters:
         folders:
           - projects
-        featured_only: true
   - block: portfolio
     id: projects
     content:
