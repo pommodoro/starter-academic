@@ -16,8 +16,7 @@ sections:
     content:
       title: Research
     design:
-      columns: '1'
-      view: card
+      columns: '2'
   - block: features
     content:
       title: Skills
