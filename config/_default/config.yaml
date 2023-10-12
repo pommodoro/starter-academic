@@ -5,6 +5,7 @@
 
 title: Ricardo Pommer Muñoz # Website name
 baseURL: 'https://pommermunoz.io/' # Website URL
+description: ""
 
 ############################
 ## LANGUAGE
