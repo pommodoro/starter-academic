@@ -14,7 +14,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Information Interventions and Climate Adaptation
+      title: Projects
   - block: features
     content:
       title: Skills
