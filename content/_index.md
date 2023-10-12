@@ -13,6 +13,12 @@ sections:
       username: admin
   - block: project
     id: banks-doing-good-the-environmental-impact-of-corporate-social-responsibility
+    content:
+    title: Banks Doing Good?
+  - block: project
+    id: information-interventions-and-climate-adaptation
+    content:
+    title: Information Interventions and Climate Adaptation
   - block: features
     content:
       title: Skills
