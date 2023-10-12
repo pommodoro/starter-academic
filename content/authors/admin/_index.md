@@ -1,9 +1,9 @@
 ---
 title: Ricardo Pommer Muñoz
 role: PhD Candidate in Economics at Columbia University
-avatar_filename: screenshot-2023-10-12-at-11.27.23-am.png
-bio: 
-interests: [Development Economics, Behavioral Ecoonomics, Climate Economics]
+avatar_filename: website_photo.jpg
+bio: My interests are Development, Behavioral and Climate Economics
+interests: []
 social:
   - icon: github
     icon_pack: fab
@@ -25,5 +25,12 @@ education:
     - course: B.A. in Psychology
       institution: New York University
       year: 2014
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
+highlight_name: true
+first_name: Alice
+email: ""
 ---
 H﻿i! I am Ricardo Pommer Muñoz, a PhD candidate in Economics at Columbia University, with an interest in applying modern behavioral economics in development contexts and in climate economics. My job market paper threads these three areas by studying the mechanisms by which information interventions affect demand for climate insurance and its welfare implications.
