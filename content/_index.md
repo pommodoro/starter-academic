@@ -11,11 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: page
-    id: project-1  # Change to your project's ID or a custom identifier
-    content:
-      title: "Project 1 Title"  # The project's title
-      subtitle: "Project 1 Subtitle"  # The project's subtitle
   - block: portfolio
     id: projects
     content:
