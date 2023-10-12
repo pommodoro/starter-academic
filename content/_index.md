@@ -11,6 +11,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+- block: collection
+    id: featured
+    content:
+      title: Information Interventions and Climate Adaptation
+      filters:
+        folders:
+          - projects
+        featured_only: true
   - block: portfolio
     id: projects
     content:
