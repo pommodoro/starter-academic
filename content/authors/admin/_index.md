@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: null
 interests:
   - Development Economics
-  - Behavioral Economics
+  - Behavioral & Experimental Economics
   - Climate Economics
 social:
   - icon: github
