@@ -4,9 +4,10 @@ role: PhD Candidate in Economics at Columbia University
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - Development Economics
-  - Behavioral & Experimental Economics
+  - Development Finance
   - Climate Economics
+  - Behavioral & Experimental Economics
+
 social:
   - icon: github
     icon_pack: fab

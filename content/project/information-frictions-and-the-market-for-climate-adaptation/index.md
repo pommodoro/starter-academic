@@ -1,5 +1,5 @@
 ---
-title: Information Interventions and Climate Adaptation
+title: Information Frictions and the Market for Climate Adaptation
 date: 2023-10-12T16:14:30.872Z
 draft: false
 featured: true
@@ -8,5 +8,5 @@ tags:
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
