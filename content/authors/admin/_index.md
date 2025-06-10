@@ -6,7 +6,7 @@ bio: null
 interests:
   - Behavioral Finance
   - Development Economics
-  - Behavioral & Experimental Economics
+  - Climate Economics
 
 social:
   - icon: github
