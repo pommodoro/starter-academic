@@ -23,16 +23,16 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 100%
+          description: Shiny, Spatial Analysis, ML
           icon: r-project
           icon_pack: fab
         - name: Python
-          description: 100%
+          description: oTree, Spatial Analysis, PyTorch
           icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
+        #- name: Statistics
+        #  description: 100%
+        #  icon: chart-line
+        #  icon_pack: fas
   
 ---
