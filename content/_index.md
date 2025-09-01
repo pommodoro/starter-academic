@@ -17,7 +17,7 @@ sections:
     #  title: Research
     #design:
     #  columns: '2'
-  - block: blank
+  - block: markdown
     id: research
     content:
       title: Research
