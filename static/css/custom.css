@@ -1,14 +1,24 @@
-/* Abstract-only styling inside the Research accordion */
+/* Tighter abstract spacing */
 #research .accordion .abstract{
-  font-size: 0.4rem;     /* smaller */
-  font-style: italic;     /* italics */
-  font-weight: 400;       /* lighter */
-  line-height: 1.55;
-  opacity: .88;           /* a bit lighter without changing theme colors */
-  margin: 0.5rem 0 0.9rem;/* top/bottom breathing room */
+  font-size: 0.95rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.45;            /* slightly tighter */
+  opacity: .88;
+  margin: 0.35rem 0 0.55rem;    /* was ~0.5–0.9rem, now tighter */
 }
 
-/* If your abstract content is wrapped in <p>, avoid extra spacing */
+/* keep paragraphs compact inside the abstract */
 #research .accordion .abstract p{
-  margin: 0.25rem 0 0;
+  margin: 0.2rem 0;             /* reduce top/bottom paragraph gaps */
+}
+
+/* if the abstract starts/ends with a block element, trim extra whitespace */
+#research .accordion .abstract > :first-child { margin-top: 0; }
+#research .accordion .abstract > :last-child  { margin-bottom: 0; }
+
+/* optional: lists inside abstracts */
+#research .accordion .abstract ul,
+#research .accordion .abstract ol{
+  margin: 0.25rem 0 0.45rem 1.1rem;
 }
