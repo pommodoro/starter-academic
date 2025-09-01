@@ -4,6 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+custom_css:
+  - css/custom.css
 
 appearance:
   theme_day: minimal
@@ -21,7 +23,7 @@ marketing:
     description: 'Ricardo Pommer Muñoz, doctoral candidate in Economics @ Columbia University in the City of New York'
     twitter: 'rapommer'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3FSSQYV3EM'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
