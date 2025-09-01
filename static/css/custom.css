@@ -1,6 +1,6 @@
 /* Abstract-only styling inside the Research accordion */
 #research .accordion .abstract{
-  font-size: 0.95rem;     /* smaller */
+  font-size: 0.4rem;     /* smaller */
   font-style: italic;     /* italics */
   font-weight: 400;       /* lighter */
   line-height: 1.55;
