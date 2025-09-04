@@ -73,20 +73,28 @@ sections:
     design:
       columns: '1'
 
-    
-    
-  - block: features
+  
+  - block: markdown
+    id: cv
     content:
-      title: Skills
-      items:
-        - name: R
-          description: Causal Inference, Shiny, Spatial Analysis, ML
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          description: oTree, Spatial Analysis, PyTorch
-          icon: python
-          icon_pack: fab
+      title: Curriculum Vitae
+      text: |
+        <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95&st=ygth3ykh&dl=0" width="100%" height="600px" style="border: none;"></iframe>
+    design:
+      columns: '1'
+    
+  #- block: features
+  #  content:
+  #    title: Skills
+  #    items:
+  #      - name: R
+  #        description: Causal Inference, Shiny, Spatial Analysis, ML
+  #        icon: r-project
+  #        icon_pack: fab
+  #      - name: Python
+  #        description: oTree, Spatial Analysis, PyTorch
+  #       icon: python
+  #        icon_pack: fab
         #- name: Statistics
         #  description: 100%
         #  icon: chart-line
