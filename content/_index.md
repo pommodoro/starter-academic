@@ -74,14 +74,14 @@ sections:
       columns: '1'
 
   
-  - block: markdown
-    id: cv
-    content:
-      title: Curriculum Vitae
-      text: |
-        <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95&st=ygth3ykh&dl=0" width="100%" height="600px" style="border: none;"></iframe>
-    design:
-      columns: '1'
+  #- block: markdown
+  #    id: cv
+  #    content:
+  #      title: Curriculum Vitae
+  #      text: |
+  #        <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95&st=ygth3ykh&dl=0" width="100%" height="600px" style="border: none;"></iframe>
+  #    design:
+  #      columns: '1'
     
   #- block: features
   #  content:
