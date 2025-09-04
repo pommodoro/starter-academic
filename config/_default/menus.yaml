@@ -11,8 +11,11 @@ main:
   #  url: '#posts'
   #  weight: 20
   - name: Research
-    url: '#projects'
+    url: '#research'
     weight: 30
+  - name : CV
+    url: 
+    weight: 40
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
