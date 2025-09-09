@@ -81,7 +81,9 @@ sections:
         ### Undergraduate
 
         **Intermediate Macroeconomics**  
-        Role: Teaching Assistant — Instructor: Prof. Sala-i-Martin - Term: Fall 2022
+        Role: Teaching Assistant — Instructor: Prof. Sala-i-Martin - Term: Fall 2022. 
+        valuations: [2022](https://www.dropbox.com/scl/fi/kv7vfc9tcl2t5h53v281a/ECONUN3213_001_2022_3-INTERMEDIATEMACROECONOMICSECONW3213_001_2022_3_149111_RicardoPommerMunoz.pdf?rlkey=3rczmi2axnd8tm448mki3grsm&dl=1)
+        *Runner-up Wueller Award for Teaching Core Courses*
       
         **Money and Banking**  
         Role: Teaching Assistant — Instructor: Prof. Miles C. Leahy — Term: Spring 2021  
@@ -97,7 +99,7 @@ sections:
         
         ### Mentoring
         **Undergraduate Mentorship Program**
-        
+
         Mentees: Tatiana Louis (2022), Fernando Pérez (2023)
 
         **ACRE and Climate Behavioral Lab Research Assistants**
