@@ -100,4 +100,22 @@ sections:
         #  icon: chart-line
         #  icon_pack: fas
   
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |
+      
+
+        | Course | Role | Instructor | Term |
+        |---|---|---|---|
+        
+        | Intermediate Macroeconomics | Teaching Assistant | Prof. Sala-i-Martin | Fall 2022 | 
+        | Money and Banking | Teaching Assistant | Prof. Miles C. Leahy | Spring 2021 | 
+        | Economics of Race in the United States | Teaching Assistant | Prof. O’Flahery | Fall 2020 | 
+        | Introduction to Econometrics | Teaching Assistant | Prof. Gashaw | Spring 2020 | 
+        | Intermediate Macroeconomics | Grader | Prof. Sala-i-Martin | Fall 2019 | 
+    design:
+      columns: '1'
+
 ---
