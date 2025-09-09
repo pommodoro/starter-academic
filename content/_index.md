@@ -73,6 +73,30 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: |
+        ### Undergraduate
+
+        **Intermediate Macroeconomics**  
+        *Role:* TA (Fall 2022) — *Instructor:* Prof. Sala-i-Martin  
+      
+        **Money and Banking**  
+        *Role:* Teaching Assistant — *Instructor:* Prof. Miles C. Leahy — *Term:* Spring 2021  
+
+        **Economics of Race in the United States**  
+        *Role:* Teaching Assistant — *Instructor:* Prof. O’Flahery — *Term:* Fall 2020  
+
+        **Introduction to Econometrics**  
+        *Role:* Teaching Assistant — *Instructor:* Prof. Gashaw — *Term:* Spring 2020  
+        
+        **Intermediate Macroeconomics**  
+        *Role:* Grader/Teaching Assistant — *Instructor:* Prof. Sala-i-Martin — *Term:* Fall 2019  
+    design:
+      columns: '1'
+
   
   #- block: markdown
   #    id: cv
