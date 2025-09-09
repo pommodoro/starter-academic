@@ -76,24 +76,31 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching
+      title: Teaching & Mentoring
       text: |
         ### Undergraduate
 
         **Intermediate Macroeconomics**  
-        *Role:* TA (Fall 2022) — *Instructor:* Prof. Sala-i-Martin  
+        Role: Teaching Assistant — Instructor: Prof. Sala-i-Martin - Term: Fall 2022
       
         **Money and Banking**  
-        *Role:* Teaching Assistant — *Instructor:* Prof. Miles C. Leahy — *Term:* Spring 2021  
+        Role: Teaching Assistant — Instructor: Prof. Miles C. Leahy — Term: Spring 2021  
 
         **Economics of Race in the United States**  
-        *Role:* Teaching Assistant — *Instructor:* Prof. O’Flahery — *Term:* Fall 2020  
+        Role: Teaching Assistant — Instructor: Prof. O’Flahery — Term: Fall 2020  
 
         **Introduction to Econometrics**  
-        *Role:* Teaching Assistant — *Instructor:* Prof. Gashaw — *Term:* Spring 2020  
+        Role: Teaching Assistant — Instructor: Prof. Gashaw — Term: Spring 2020  
         
         **Intermediate Macroeconomics**  
-        *Role:* Grader/Teaching Assistant — *Instructor:* Prof. Sala-i-Martin — *Term:* Fall 2019  
+        Role: Grader/Teaching Assistant — Instructor: Prof. Sala-i-Martin — Term: Fall 2019 
+        
+        ### Mentoring
+        ** Undergraduate Mentorship Program**
+        Mentees: Tatiana Louis (2022), Fernando Pérez (2023)
+
+        ** ACRE and Climate Behavioral Lab Research Assistants**
+        Jorge Ballesteros (2025), Garrett Wilson (2024/2025), Tulasi Cherkuri (2025), Irene Elfriede (2025), Henry Hopkins (2025), Nayantara Alva (2024), Julia Fu (2024)Jared Donohue (2025), Julia Nash (2023), Ido Dvash (2022/2023), Jonathan Bornstein (2022/2023)
     design:
       columns: '1'
 
