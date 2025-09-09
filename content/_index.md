@@ -81,21 +81,20 @@ sections:
         ### Undergraduate
 
         **Intermediate Macroeconomics**  
-        Role: Teaching Assistant — Instructor: Prof. Sala-i-Martin - Term: Fall 2022. 
-        valuations: [2022](https://www.dropbox.com/scl/fi/kv7vfc9tcl2t5h53v281a/ECONUN3213_001_2022_3-INTERMEDIATEMACROECONOMICSECONW3213_001_2022_3_149111_RicardoPommerMunoz.pdf?rlkey=3rczmi2axnd8tm448mki3grsm&dl=1)
+        Role: Teaching Assistant — Instructor: Prof. Sala-i-Martin - Term: [Fall 2022](https://www.dropbox.com/scl/fi/kv7vfc9tcl2t5h53v281a/ECONUN3213_001_2022_3-INTERMEDIATEMACROECONOMICSECONW3213_001_2022_3_149111_RicardoPommerMunoz.pdf?rlkey=3rczmi2axnd8tm448mki3grsm&dl=1)
         *Runner-up Wueller Award for Teaching Core Courses*
       
         **Money and Banking**  
-        Role: Teaching Assistant — Instructor: Prof. Miles C. Leahy — Term: Spring 2021  
+        Role: Teaching Assistant — Instructor: Prof. Miles C. Leahy — Term: [Spring 2021](https://www.dropbox.com/scl/fi/xe53xp7hakol0lnccb4qg/ECONUN3265_001_2021_1-MONEYANDBANKINGECONV3265_001_2021_1_115717_RicardoPommerMunoz.pdf?rlkey=8ofex1jr084zsna8ps71khu0s&dl=1)
 
         **Economics of Race in the United States**  
-        Role: Teaching Assistant — Instructor: Prof. O’Flahery — Term: Fall 2020  
+        Role: Teaching Assistant — Instructor: Prof. O’Flahery — Term: [Fall 2020](https://www.dropbox.com/scl/fi/sa6t6c5r76hg97792tfhz/ECONGU4438_001_2020_3-ECONOMICSOFRACEINTHEU.S.ECONGU4438_001_2020_3-ECONOMICSOFRACEINTHEU.S._RicardoPommerMunoz.pdf?rlkey=3j9fts77jpmnvmuh7ycy6utzy&dl=1)  
 
         **Introduction to Econometrics**  
-        Role: Teaching Assistant — Instructor: Prof. Gashaw — Term: Spring 2020  
+        Role: Teaching Assistant — Instructor: Prof. Gashaw — Term: Spring 2020 [No evaluations due to pandemic]
         
         **Intermediate Macroeconomics**  
-        Role: Grader/Teaching Assistant — Instructor: Prof. Sala-i-Martin — Term: Fall 2019 
+        Role: Grader/Teaching Assistant — Instructor: Prof. Sala-i-Martin — Term: [Fall 2019](https://www.dropbox.com/scl/fi/rkqj3luu18ya475vvsd6m/ECONUN3213_001_2019_3-INTERMEDIATEMACROECONOMICS_RicardoPommerMunoz.pdf?rlkey=1lqzut8eu6j3rahc8jb6fy0xi&dl=1)
         
         ### Mentoring
         **Undergraduate Mentorship Program**
@@ -104,7 +103,7 @@ sections:
 
         **ACRE and Climate Behavioral Lab Research Assistants**
 
-        Jorge Ballesteros (2025), Garrett Wilson (2024/2025), Jared Donohue (2025), Tulasi Cherkuri (2025), Irene Elfriede (2025), Henry Hopkins (2025), Nayantara Alva (2024), Julia Fu (2024), Julia Nash (2023), Ido Dvash (2022/2023), Jonathan Bornstein (2022/2023)
+        Jorge Ballesteros (2025), Garrett Wilson (2024/2025), Jared Donohue (2025), Tulasi Cherukuri (2025), Irene Elfriede (2025), Henry Hopkins (2025), Nayantara Alva (2024), Julia Fu (2024), Julia Nash (2023), Ido Dvash (2022/2023), Jonathan Bornstein (2022/2023)
     design:
       columns: '1'
 
