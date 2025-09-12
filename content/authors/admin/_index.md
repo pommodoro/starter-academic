@@ -31,7 +31,7 @@ education:
 
 superuser: true
 ---
-Hi, I am on the Job Market this Fall 2025! My name is Ricardo Pommer Muñoz, a PhD candidate in Economics at Columbia University, with an interest in studying climate economics and applying modern behavioral economics to understand the financial decisions of vulnerable households. My job market paper threads these three areas by studying the mechanisms by which information interventions affect demand for climate insurance and the implications for market sustainability.
+Hi, I am on the Job Market this Fall 2025! My name is Ricardo Pommer Muñoz, a PhD candidate in Economics at Columbia University, with an interest in studying climate economics and applying modern behavioral economics to understand the financial decisions of vulnerable households. My job market paper threads these three areas by studying the mechanisms by which information frictions affect demand for climate insurance and their implications for market sustainability.
 
 ## References {#references}
 
