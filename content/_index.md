@@ -98,9 +98,9 @@ sections:
         ### Mentoring
         **Undergraduate Mentorship Program**
 
-        Mentees: Tatiana Louis (2022), Fernando Pérez (2023)
+        Mentees: [Tatiana Louis]{https://www.linkedin.com/in/tatiana-louis/} (2022), [Fernando Pérez]{https://www.linkedin.com/in/fernando-perez-25a5b3228/} (2023)
 
-        **ACRE and Climate Behavioral Lab Research Assistants**
+        **Research Assistants**
 
         Jorge Ballesteros (2025), Garrett Wilson (2024/2025), Jared Donohue (2025), Tulasi Cherukuri (2025), Irene Elfriede (2025), Henry Hopkins (2025), Nayantara Alva (2024), Julia Fu (2024), Julia Nash (2023), Ido Dvash (2022/2023), Jonathan Bornstein (2022/2023)
     design:

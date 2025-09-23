@@ -13,7 +13,13 @@ header:
   overlay_filter: 0
 ---
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95&st=ygth3ykh&dl=0" class="btn btn--primary btn--large" download>Download PDF</a>
+  <a href="https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95"
+     class="btn btn--primary btn--large" download>
+    Download PDF
+  </a>
 </div>
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95&st=ygth3ykh&dl=0"width="100%" height="800px" style="border: none;"></iframe>
+<iframe
+  src="https://dl.dropboxusercontent.com/scl/fi/ha58rbygwk3mke7wl94qx/rpm_cv_2025.pdf?rlkey=jubf3a43f551cv56mp3jujm95"
+  width="100%" height="800" style="border:none;">
+</iframe>
