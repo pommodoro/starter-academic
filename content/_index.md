@@ -98,11 +98,11 @@ sections:
         ### Mentoring
         **Undergraduate Mentorship Program**
 
-        Mentees: [Tatiana Louis]{https://www.linkedin.com/in/tatiana-louis/} (2022), [Fernando Pérez]{https://www.linkedin.com/in/fernando-perez-25a5b3228/} (2023)
+        Mentees: [Tatiana Louis](https://www.linkedin.com/in/tatiana-louis/) (2022), [Fernando Pérez](https://www.linkedin.com/in/fernando-perez-25a5b3228/) (2023)
 
         **Research Assistants**
 
-        Jorge Ballesteros (2025), Garrett Wilson (2024/2025), Jared Donohue (2025), Tulasi Cherukuri (2025), Irene Elfriede (2025), Henry Hopkins (2025), Nayantara Alva (2024), Julia Fu (2024), Julia Nash (2023), Ido Dvash (2022/2023), Jonathan Bornstein (2022/2023)
+        [Jorge Ballestero](https://www.linkedin.com/in/jorge-d-ballestero-94117328a/) (2025), [Garrett Wilson] (https://www.linkedin.com/in/garrettawilson/) (2024/2025), [Jared Donohue] (https://www.linkedin.com/in/donohuejared/) (2025), Tulasi Cherukuri (2025), [Irene Elfriede] (2025), [Henry Hopkins](https://www.linkedin.com/in/henry-hopkins-264637210/) (2025), [Nayantara Alva](https://www.linkedin.com/in/nayantara-alva/) (2024), [Julia Fu](https://www.linkedin.com/in/julia-fu-975404245/) (2024), [Julia Nash](https://www.linkedin.com/in/julia-nash-959137279/) (2023), [Ido Dvash](https://www.linkedin.com/in/idodvash/) (2022/2023), [Jonathan Bornstein](https://www.linkedin.com/in/jonathan-bornstein-723b48237/) (2022/2023)
     design:
       columns: '1'
 
