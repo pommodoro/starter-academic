@@ -31,7 +31,7 @@ education:
 
 superuser: true
 ---
-Hi, I am on the Job Market this Fall 2025! I'm a PhD candidate in Economics at Columbia University, interested in studying the financial decisions of vulnerable households, climate finance and climate economics. To study these, I use tools from behavioral and neuroconomic theory, field experiments and causal inference from applied microeconomics. In job market paper I show how different types of information frictions affect demand for climate insurance and their implications for market sustainability.
+Hi, I am on the Job Market this Fall 2025! I'm a PhD candidate in Economics at Columbia University, interested in studying the financial decisions of vulnerable households, climate finance and climate economics. To study these, I use tools from behavioral and neuroconomic theory, field experiments and causal inference from applied microeconomics. In my job market paper I show how different types of information frictions affect demand for climate insurance and their implications for market sustainability.
 
 ## References {#references}
 
